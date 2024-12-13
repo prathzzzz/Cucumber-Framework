@@ -1,0 +1,1 @@
+Keep feature files in this directory.
